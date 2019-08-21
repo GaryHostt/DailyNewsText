@@ -12,3 +12,5 @@ authToken
 To & From phone numbers
 
 Thanks to, https://newsapi.org/ for the news sources. 
+
+[Sending texts via Twilio with GO](https://www.twilio.com/blog/2017/09/send-text-messages-golang.html)
